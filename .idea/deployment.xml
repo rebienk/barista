@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="barista">
+    <serverData>
+      <paths name="barista">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/s1122010/P1_OOAPP_Tentamen" local="$PROJECT_DIR$" web="/~s1122010/P1_OOAPP_Tentamen/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
