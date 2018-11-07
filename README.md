@@ -1,4 +1,3 @@
-# wf-oopphp
-Course oop php until database connection
-
-Change config file and routes to match your server
+ <h1>WIP</h1>
+ 
+ <p> An webapp for barista where you can login and see all the different mix of coffees and drinks, with CRUD </p>
